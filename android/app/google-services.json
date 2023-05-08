@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "973173917724",
+    "project_id": "app-53e53",
+    "storage_bucket": "app-53e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973173917724:android:bbdf38c785e6561780f7d9",
+        "android_client_info": {
+          "package_name": "com.example.air_pollution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973173917724-qgirhhokio843i65ub9prdsg1phchj7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRdW8ud8Of_WChIXl9DFlcsXdKp-2G_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973173917724-qgirhhokio843i65ub9prdsg1phchj7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973173917724-oa75ccmdddfpiken59tvcu55kv2gd9nc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973173917724:android:8d2a814e9d0a459380f7d9",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973173917724-qgirhhokio843i65ub9prdsg1phchj7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRdW8ud8Of_WChIXl9DFlcsXdKp-2G_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973173917724-qgirhhokio843i65ub9prdsg1phchj7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973173917724-oa75ccmdddfpiken59tvcu55kv2gd9nc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973173917724:android:4cc2c74ef91049bc80f7d9",
+        "android_client_info": {
+          "package_name": "com.example.screens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973173917724-qgirhhokio843i65ub9prdsg1phchj7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRdW8ud8Of_WChIXl9DFlcsXdKp-2G_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973173917724-qgirhhokio843i65ub9prdsg1phchj7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973173917724-oa75ccmdddfpiken59tvcu55kv2gd9nc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
